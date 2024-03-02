@@ -12,7 +12,7 @@ const nextConfig = {
 			},
 			{
 								protocol: "https",
-				hostname: "digitalhippo-hh17-737bfxid3-ziad-hatem.vercel.app",
+				hostname:process.env.NEXT_PUBLIC_VERCEL_UR`,
 			}
 		],
 	},
