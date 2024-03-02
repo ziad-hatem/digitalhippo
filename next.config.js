@@ -8,12 +8,8 @@ const nextConfig = {
 			},
 			{
 				protocol: "https",
-				hostname: "digitalhippo-production-f568.up.railway.app",
+				hostname: "digitalhippo-38dv.onrender.com",
 			},
-			{
-								protocol: "https",
-				hostname: process.env.NEXT_PUBLIC_VERCEL_URL,
-			}
 		],
 	},
 };
