@@ -10,6 +10,10 @@ const nextConfig = {
 				protocol: "https",
 				hostname: "digitalhippo-production-f568.up.railway.app",
 			},
+			{
+								protocol: "https",
+				hostname: "digitalhippo-hh17-737bfxid3-ziad-hatem.vercel.app",
+			}
 		],
 	},
 };
