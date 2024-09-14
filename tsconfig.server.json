@@ -4,7 +4,8 @@
     "module": "CommonJS",
     "outDir": "dist",
     "noEmit": false,
-    "jsx": "react"
+    "jsx": "react",
+    "typeRoots": ["./node_modules/@types", "./declarations.d.ts"]
   },
   "include": ["src/server.ts", "src/payload.config.ts"]
 }
